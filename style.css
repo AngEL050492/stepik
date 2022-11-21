@@ -158,6 +158,9 @@ h2{
     height: calc(474px -20px - 46px); 
     background-color: #ffffff;
 }
+.news:hover{
+    box-shadow:  4px 10px 20px rgba(128, 128, 128, 0.527) , 0px 5px 5px gray; 
+}
 .news_image{
     margin: 24px auto 24px auto;
     width: 325px;
